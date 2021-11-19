@@ -1,0 +1,9 @@
+Source:
+https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads#yearly-file
+
+data files
+http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2021.csv
+http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-2020.csv
+
+column names:
+https://landregistry.data.gov.uk/app/ppd
